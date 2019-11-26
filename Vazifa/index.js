@@ -1,0 +1,1 @@
+alert("Aka Burhon Birni bermasaiz Bo'maydi");

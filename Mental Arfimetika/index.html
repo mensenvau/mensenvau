@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Mental Arfimetika</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='index.css'>
+    <!-- <script src='index.js'></script> -->
+</head>
+<body>
+    <header>
+        <div id='men'>
+       <form method="POST"  name='form' class='form'>
+            <select class='darja' id='a1' name='dar'>
+                    <option>Odiy</option>
+                    <option>Murakab</option>
+            </select>
+            <select class='soni' id='a2' name='soni'>
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                    <option>6</option>
+                    <option>7</option>
+                    <option>8</option>
+                    <option>9</option>
+                    <option>10</option>
+                    <option>11</option>
+                    <option>12</option>
+                    <option>13</option>
+                    <option>14</option>
+            </select>
+       </form> 
+        <button class='sub'  onclick="return nat()" >BOSHLASH</button> 
+       </div>
+
+       <div id='u' class='u'>
+           <form name='form2' onsubmit="return u()">
+               <input type='text' class='nat' name='nat' placeholder="Natija">
+               <input type='submit' class='qab' name='qab' value='Qabulqilish'>
+          </form>
+       </div>
+       <p id='sen'></p>     
+<script >
+var  p=document.getElementById('men');
+var  q=document.getElementById('sen');
+var  w=document.getElementById('u');
+let k;
+let ish;
+let vek=0;
+let vek1="";
+let son=0;
+let y;
+function nat()
+{
+    p.style.display = 'none';
+    q.style.display ='block';
+    if(document.getElementById('a1').value ==='Odiy') {ish=['-','+','-','+'];} else { ish=['*','/','-','+'];} 
+    k=document.getElementById('a2').value;
+    vek=0;
+    id=setInterval(men,1200);
+}
+function men()
+{
+   if(k==0)
+   {
+       console.log("Dasturchilar uchun: "+vek);
+       q.style.display='none';
+       w.style.display='block';
+       clearInterval(id);
+   }
+   else
+    {
+        y=ish[Math.floor(Math.random() * 4)];
+        son=Math.floor(Math.random() * 20);
+        if(y=='*') {if(vek1.length==0) vek=1;  vek=vek*son;}
+        else 
+        if(y=='-') vek=vek-1*son;
+        else
+        if(y=='/') {if(vek1.length==0) vek=1;  vek=vek/son;}
+        else  vek=vek+son*1;
+        vek1=vek1+y+" "+son;
+        q.innerHTML=y+son;
+        k=k-1;
+    }
+}
+
+
+function u()
+{
+
+  var u=document.forms['form2']['nat'].value;
+  alert("Dastur davomida :\n"+vek1+"="+vek);
+  if(vek==u) alert("Siz To'gri topdingiz!!!."); else alert("Siz Afsuski Xato Toptingiz!!!");
+
+
+}
+</script>
+    </header>
+</body>
+</html>
+
+
+shu javascripcodni yosangiz xolos !!!. setInterval functioni bu qandaydir oraliqa bita funcsiyani qayta qayta murojat qiladi sikil aperatori vazifasni bajaradi bu orqali sizlar soat
+etiborningiz uchun raxmat kamchliklar uchun uzur

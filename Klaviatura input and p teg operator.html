@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Salom</title>
+</head>
+<style type="">
+*{
+	margin: 0px;
+}	
+header
+{
+  width: 100%;
+  height: 100vh;
+  background: #ccc;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+   flex-direction: column;
+}
+p
+{
+	font-size: 1.7em;
+	margin: 10px;
+	color:#000; 
+}
+input
+{
+	width: 160px;
+	padding: 10px;
+	border-radius: 5px;
+    box-shadow: 1px 1px 1px  #fff, 2px 2px 1px #000;
+}
+
+</style>
+<body>
+<header>
+   
+   <form name="men">
+   	<input type="text" placeholder="yozuv kirting" name='sen' id='sen'>
+   </form>
+   <p id='ff'></p>
+   <script >
+   	let id=document.querySelector('input[type="text"]');
+    let id1=document.getElementById('ff');
+    id.addEventListener("keydown",men);
+   
+//    id=setInterval(500,men)
+//    }
+// for(let i=0;i<10000;i++)
+// 	id.value=id.value+"Doniyor ";
+
+    function men() {
+    id1.innerHTML=id.value;	
+    if(id.value=='salom') alert("Valekum salom");
+}
+   </script>
+</header>
+   
+ 
+
+
+</body>
+</html>
