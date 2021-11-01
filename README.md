@@ -1,16 +1,13 @@
 
 ### Assalomu alekum  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://instagram.com/mensenvau">
+  <img align="left" alt="Mensenvau" width="22px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://linkedin.com/in/mensenvau">
+  <img align="left" alt="Mensenvau" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://t.me/mensenvau">
+  <img align="left" alt="Mensenvau" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
@@ -23,10 +20,10 @@ hi, i'm [O'tkir](https://t.me/mensenvau/), men odatda alagaritimlar ishlayman le
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 menga murja qilmoqchi bo'lsangiz , [email](mailto:abhishek.naidu@cred.club) :)
+- 💬 Mendan biror narsa haqida so'rang, men yordam berishdan xursandman ; 
 
-**lDasturlash tilai va Texnalogiyalar:**  
+**lDasturlash tillari va Texnalogiyalar:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -64,6 +61,8 @@ if you come to Bukhara let's talk over coffe/tea 👉👈
  </a>
 
 <!-- TODO-IST:END -->
+
+
 
 
 📈 my github stats
