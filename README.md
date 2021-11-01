@@ -1,13 +1,4 @@
 
-
-https://t.me/balkibumen  
- 
-https://robocontest.uz/profile/mensenvau <br>
-https://www.hackerrank.com/mensenvau?hr_r=1 <br>
-https://acmp.ru/index.asp?main=user&id=239949 
-
-
-
 ### Assalomu alekum  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -62,8 +53,15 @@ if you come to Bukhara let's talk over coffe/tea 👉👈
 <a href='https://leetcode.com/mensenvau/' >
   <img width="40px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--75kJZZQg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png">
  </a>
-  
-
+  <a href='https://www.hackerrank.com/mensenvau?hr_r=1' >
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png">
+ </a>
+  <a href='https://robocontest.uz/profile/mensenvau' >
+  <img width="40px" src="https://robocontest.uz/assets/img/watermark.jpg">
+ </a>
+  <a href='https://acmp.ru/index.asp?main=user&id=239949' >
+  <img width="40px" src="https://acmp.ru/images/120x120.svg">
+ </a>
 
 <!-- TODO-IST:END -->
 
