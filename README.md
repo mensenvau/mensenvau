@@ -19,7 +19,7 @@ hi, i'm [O'tkir](https://t.me/mensenvau/), men odatda alagaritimlar ishlayman le
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/58214867/139740411-31ce584c-ef4f-44e7-b815-37a594d2b1c6.png" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/58214867/139740411-31ce584c-ef4f-44e7-b815-37a594d2b1c6.png" width="500" />
   ![image]()
 
   
