@@ -17,8 +17,8 @@
 hi, i'm [O'tkir](https://t.me/mensenvau/), men odatda alagaritimlar ishlayman lekin mayli back-end dasturchi deya qolaylik. Mening dasturlash olamida 3 yilik tajribam bor. 
 
 
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/58214867/139740411-31ce584c-ef4f-44e7-b815-37a594d2b1c6.png" width="500" />
-  ![image](https://user-images.githubusercontent.com/58214867/139740628-42bff318-2d86-4b83-90ff-a7e948b5f4e3.png)
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/58214867/139740628-42bff318-2d86-4b83-90ff-a7e948b5f4e3.png" width="500" />
+
 
   
 - 💼 Menga murja qilmoqchi bo'lsangiz , [email](mailto:balkibumen@gmail.com)
