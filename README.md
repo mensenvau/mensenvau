@@ -59,7 +59,7 @@ if you come to Bukhara let's talk over coffe/tea 👉👈
 
 🏆  **i on some sites:**
 <!-- TODO-IST:START -->        
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></code>
 <!-- TODO-IST:END -->
 
 
