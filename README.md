@@ -44,27 +44,22 @@ hi, i'm [O'tkir](https://t.me/mensenvau/), men odatda alagaritimlar ishlayman le
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **I always:**
 <!--START_SECTION:waka-->
 ```text
-JSX          8 hrs 27 mins   ██████████████▒░░░░░░░░░░   57.52 % 
-JavaScript   5 hrs 42 mins   █████████▓░░░░░░░░░░░░░░░   38.80 % 
-Other        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+LeetCode        4 hrs    ██████████████▒░░░░░░░░░░   50 % 
+JavaScript      1 hrs    █████████▓░░░░░░░░░░░░░░░   25 % 
+Other           18 mins  █████████▓░░░░░░░░░░░░░░░   25 % 
 ```
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you come to Bukhara let's talk over coffe/tea 👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,982 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 669 tasks so far           
-⏳  Longest streak is 10 days
+🏆  **i on some sites:**
+<!-- TODO-IST:START -->        
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"></code>
 <!-- TODO-IST:END -->
 
 
