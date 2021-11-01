@@ -60,7 +60,7 @@ if you come to Bukhara let's talk over coffe/tea 👉👈
 🏆  **i on some sites:**
 <!-- TODO-IST:START -->        
 <code><a href='https://leetcode.com/mensenvau/' >
-  <img height="20" src="https://res.cloudinary.com/practicaldev/image/fetch/s--75kJZZQg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png">
+  <img width="22px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--75kJZZQg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png">
   </a></code>
 <!-- TODO-IST:END -->
 
