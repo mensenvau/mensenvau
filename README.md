@@ -10,7 +10,7 @@
   <img align="left" alt="Mensenvau" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=mensenvau.mensenvau)
 
 <br />
 
@@ -20,10 +20,10 @@ hi, i'm [O'tkir](https://t.me/mensenvau/), men odatda alagaritimlar ishlayman le
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 menga murja qilmoqchi bo'lsangiz , [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 Menga murja qilmoqchi bo'lsangiz , [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 Mendan biror narsa haqida so'rang, men yordam berishdan xursandman ; 
 
-**lDasturlash tillari va Texnalogiyalar:**  
+**Dasturlash tillari va Texnalogiyalar:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -43,7 +43,7 @@ Other           18 mins  █████████▓░░░░░░░░�
 
 if you come to Bukhara let's talk over coffe/tea 👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<!-- <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 🏆  **i on some sites:**
 <!-- TODO-IST:START -->        
