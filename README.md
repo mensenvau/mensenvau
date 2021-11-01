@@ -1,7 +1,7 @@
 
 
 https://t.me/balkibumen  
-https://leetcode.com/mensenvau/  
+ 
 https://robocontest.uz/profile/mensenvau <br>
 https://www.hackerrank.com/mensenvau?hr_r=1 <br>
 https://acmp.ru/index.asp?main=user&id=239949 
@@ -59,7 +59,9 @@ if you come to Bukhara let's talk over coffe/tea 👉👈
 
 🏆  **i on some sites:**
 <!-- TODO-IST:START -->        
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></code>
+<code><a href='https://leetcode.com/mensenvau/' >
+  <img height="20" src="https://res.cloudinary.com/practicaldev/image/fetch/s--75kJZZQg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png">
+  </a></code>
 <!-- TODO-IST:END -->
 
 
