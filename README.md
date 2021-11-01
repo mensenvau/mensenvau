@@ -19,8 +19,11 @@ hi, i'm [O'tkir](https://t.me/mensenvau/), men odatda alagaritimlar ishlayman le
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/58214867/139740411-31ce584c-ef4f-44e7-b815-37a594d2b1c6.png" width="500" height="320" />
+  ![image]()
+
   
-- 💼 Menga murja qilmoqchi bo'lsangiz , [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 Menga murja qilmoqchi bo'lsangiz , [email](mailto:balkibumen@gmail.com)
 - 💬 Mendan biror narsa haqida so'rang, men yordam berishdan xursandman ; 
 
 **Dasturlash tillari va Texnalogiyalar:**  
@@ -63,7 +66,7 @@ if you come to Bukhara let's talk over coffe/tea 👉👈
 <!-- TODO-IST:END -->
 
 
-
+<br><br><br> 
 
 📈 my github stats
 
