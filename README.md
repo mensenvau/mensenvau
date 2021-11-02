@@ -71,5 +71,6 @@ if you come to Bukhara let's talk over coffe/tea 👉👈
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mensenvau&show_icons=true&theme=gotham" alt="mensenvau" />
 
 
+![image](https://user-images.githubusercontent.com/58214867/139867120-f1767d79-8b41-4627-a9bf-703fcadb7f3a.png)
 
 
