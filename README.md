@@ -14,14 +14,14 @@
 
 <br />
 
-hi, i'm [O'tkir](https://t.me/mensenvau/), men odatda alagaritimlar ishlayman lekin mayli back-end dasturchi deya qolaylik. Mening dasturlash olamida 3 yilik tajribam bor. 
+hi, i'm [O'tkir](https://t.me/mensenvau/), odatda algoritmlar ishlayman lekin back-end dasturchi deya qolaylik. Mening dasturlash olamida 3 yilik tajribam bor. 
 
 
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/58214867/139740628-42bff318-2d86-4b83-90ff-a7e948b5f4e3.png" width="500" />
 
 
   
-- 💼 Menga murja qilmoqchi bo'lsangiz , [email](mailto:balkibumen@gmail.com)
+- 💼 Menga murojat qilmoqchi bo'lsangiz , [email](mailto:balkibumen@gmail.com)
 - 💬 Mendan biror narsa haqida so'rang, men yordam berishdan xursandman ; 
 
 **Dasturlash tillari va Texnalogiyalar:**  
