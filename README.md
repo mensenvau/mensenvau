@@ -1,13 +1,13 @@
 
-### Assalomu alekum  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >
 <a href="https://instagram.com/mensenvau">
-  <img align="left" alt="Mensenvau" width="22px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
+  <img align="left" alt="Mensenvau" width="22px" style="margin-left:5px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
 </a>
 <a href="https://linkedin.com/in/mensenvau">
-  <img align="left" alt="Mensenvau" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Mensenvau" width="22px" style="margin-left:5px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://t.me/mensenvau">
-  <img align="left" alt="Mensenvau" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+  <img align="left" alt="Mensenvau" width="22px" style="margin-left:5px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mensenvau.mensenvau)
