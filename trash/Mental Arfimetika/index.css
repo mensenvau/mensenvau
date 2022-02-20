@@ -1,0 +1,92 @@
+*
+{
+    margin: 0px;
+}
+header{
+    width: 100%;
+    height: 100vh;
+    background: url(sky.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* background: rgb(0, 0, 0,0.4); */
+}
+
+.darja
+{
+    width: 80%;
+    padding: 10px;
+    border-radius:5px;
+    border: 1px solid #FFF;
+
+}
+.soni
+{
+    margin-top: 10px;
+    width: 80%;
+    padding: 10px;
+    border-radius:5px;
+    border: 1px solid #FFF;
+
+}
+.sub
+{
+    margin-top: 10px;
+    width: 80%;
+    padding: 10px;
+    border-radius:5px;
+    border: 1px solid #FFF;
+    background: navy;
+    
+}
+div
+{
+   width: 200px;
+   height: 300px; 
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+}
+p{
+    font-family: monospace;
+    font-size: 3.6em;
+    color: red;
+    display: none;
+}
+
+.u{
+    width: 200px;
+    height: 300px; 
+    display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.nat
+{
+    margin-top: 10px;
+    width: 80%;
+    padding: 10px;
+    border-radius:5px;
+    border: 1px solid #FFF;
+}
+.qab
+{
+    margin-top: 10px;
+    width: 80%;
+    padding: 10px;
+    border-radius:5px;
+    border: 1px solid #FFF;
+    background: navy;
+}

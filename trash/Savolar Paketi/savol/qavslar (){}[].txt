@@ -1,0 +1,21 @@
+          Savol 
+   Qavslar 
+S satir 3-xil qavslar mavju siz bu qavslar to'g'ri qo'yilganini tekshrishngiz kerag
+input.txt
+ berlishda S satir  faqat (){}[] belgilardan tashkil topgan  uzunligi S<1000
+output.txt
+ S satir qavslar to'g'ri bo'lsa YES aksi holda NO chiqarilsin .
+
+ masalan 
+
+1
+input.txt
+{}({[]})
+output.txt 
+ YES
+
+2
+input.txt
+{)}(){}(
+output.txt
+ NO

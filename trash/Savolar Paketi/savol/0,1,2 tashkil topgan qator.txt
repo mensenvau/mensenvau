@@ -1,0 +1,21 @@
+savol                
+                        ketma-ketlik .
+n uzunlikdagi 0,1,2 dan tashkil topgan satir bor, bu satirda ikkta ketma -ket raqamlar o'zaro tengmas .
+input.txt
+ n natural son ( osoni  n<50 qiynirog'i n<150 ).
+output.txt
+ bunaqa satirlar soni
+
+Masalan 
+input.txt  1
+output.txt 3
+
+input.txt  2
+output.txt 6
+
+
+izoh.
+1-chisi 0 1 2 . 
+2-chisi 01 02 10 12 20 21 .
+
+
