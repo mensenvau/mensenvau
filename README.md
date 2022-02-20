@@ -74,8 +74,7 @@ if you come to Bukhara let's talk over coffe/tea 👉👈
 
 > 📈 mening leetcode accountim  2020-11-020
   
-![image](https://user-images.githubusercontent.com/58214867/139867120-f1767d79-8b41-4627-a9bf-703fcadb7f3a.png)
-
+![image](https://user-images.githubusercontent.com/58214867/154846506-e037287c-1237-405f-94f0-e961aa67cd9e.png)
 
 >  my same github pages :) 
 
