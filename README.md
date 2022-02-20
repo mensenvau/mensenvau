@@ -84,7 +84,7 @@ if you come to Bukhara let's talk over coffe/tea 👉👈
 
 
 
-![image](https://user-images.githubusercontent.com/58214867/154846566-f5d82a9e-09c4-46cb-ab19-e1c6a1c5c10a.png)
+![image](https://user-images.githubusercontent.com/58214867/154846679-460ed42f-445b-4987-b069-023a1f1f5484.png)
 ![image](https://user-images.githubusercontent.com/58214867/154846575-2875e815-8917-4522-afe4-1f3132b9004d.png)
 ![image](https://user-images.githubusercontent.com/58214867/154846633-d5ca4e9a-8482-4672-9262-9758c4fdd446.png)
 ![image](https://user-images.githubusercontent.com/58214867/154846605-b0cdcb68-f815-49ec-9de4-087a0b76183f.png)
