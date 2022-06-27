@@ -1,5 +1,5 @@
 
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" >
 <a href="https://instagram.com/mensenvau">
   <img align="left" alt="Mensenvau" width="22px" style="margin-left:5px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
 </a>
