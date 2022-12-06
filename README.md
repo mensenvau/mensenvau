@@ -13,3 +13,6 @@ I'm currently working at Wizetek Solutions (Remote) .
 ![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=mensenvau&count_private=true&show_icons=true&theme=gotham)
 
 </details>
+
+
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
