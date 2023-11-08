@@ -9,8 +9,6 @@
 <summary>⚡️ More about my coding life </summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mensenvau&layout=compact&hide=css,html)
-
 ![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=mensenvau&count_private=true&show_icons=true&theme=gotham)
 
 </details> 
