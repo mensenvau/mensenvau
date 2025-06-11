@@ -7,13 +7,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Utkir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mensenvau&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mensenvau&layout=compact)
-
----
-
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mensenvau)  
