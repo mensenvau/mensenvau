@@ -1,7 +1,6 @@
 ### 👋 Hi there, I'm O'tkir Xo'jayev (Utkir Khujaev)
 
 - 💼 Senior Data Engineer  
-- 🏢 Currently working at SQB  
 - 🔍 Passionate about data architecture, pipelines, and scalable systems  
 - 📊 Turning data into actionable insights
 
